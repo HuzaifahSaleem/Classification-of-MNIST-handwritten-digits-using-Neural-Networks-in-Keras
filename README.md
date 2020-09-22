@@ -1,4 +1,4 @@
-# Classification-of-MNIST-Handwritten-Digits-using-Keras
+# Classification-of-MNIST-handwritten-digits-using-neural-networks-in-Keras
 
 In this code pattern, we will use the Keras library to build models for classificaiton problems. We will use the popular MNIST dataset, a dataset of images, for a change.
 
